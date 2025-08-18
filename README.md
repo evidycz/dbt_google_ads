@@ -1,0 +1,2 @@
+
+# Google Ads dbt Package
