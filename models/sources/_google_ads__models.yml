@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: source_google_ads__accounts_settings
+  - name: source_google_ads__campaigns_settings
+  - name: source_google_ads__ad_groups_settings
+  - name: source_google_ads__asset_groups_settings
+  - name: source_google_ads__ad_groups_stats
+  - name: source_google_ads__asset_groups_stats
